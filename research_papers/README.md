@@ -6,8 +6,7 @@ Contains:
         >The problem is computationally difficult (NP-hard); however, efficient heuristic algorithms converge quickly to a local optimum. These are usually similar to the expectation-maximization algorithm for mixtures of Gaussian distributions via an iterative refinement approach employed by both k-means and Gaussian mixture modeling. They both use cluster centers to model the data; however, k-means clustering tends to find clusters of comparable spatial extent, while the Gaussian mixture model allows clusters to have different shapes.
         >The unsupervised k-means algorithm has a loose relationship to the k-nearest neighbor classifier, a popular supervised machine learning technique for classification that is often confused with k-means due to the name. Applying the 1-nearest neighbor classifier to the cluster centers obtained by k-means classifies new data into the existing clusters. This is known as nearest centroid classifier or Rocchio algorithm.
         <center>
-
-        ![](kmeans.gif)
+        ![kmeans](https://user-images.githubusercontent.com/82695022/206757973-d8c01eba-ccc5-44f8-90da-ddf97ab0a8cc.gif)
 
         <small>source: https://dashee87.github.io/images/kmeans.gif</small>
         </center>
@@ -24,7 +23,8 @@ Hierarchical clustering has the distinct advantage that any valid measure of dis
 
         <center>
 
-        ![](hierarch.gif)
+        ![hierarch](https://user-images.githubusercontent.com/82695022/206758025-4fa66364-5abb-4ad0-8b8a-b56f02db0af5.gif)
+
 
         <small>source: https://dashee87.github.io/images/hierarch.gif</small>
         </center>
@@ -33,7 +33,8 @@ Hierarchical clustering has the distinct advantage that any valid measure of dis
 In 2014, the algorithm was awarded the test of time award (an award given to algorithms which have received substantial attention in theory and practice) at the leading data mining conference, ACM SIGKDD. As of July 2020, the follow-up paper "DBSCAN Revisited, Revisited: Why and How You Should (Still) Use DBSCAN" appears in the list of the 8 most downloaded articles of the prestigious ACM Transactions on Database Systems (TODS) journal.
         <center>
 
-        ![](dbscan.gif)
+        ![dbscan](https://user-images.githubusercontent.com/82695022/206758096-9bc06eb9-26be-4f08-a562-5fe2973a60fe.gif)
+
 
         <small>source: https://ml-explained.com/articles/dbscan-explained/dbscan.gif</small>
         </center>
