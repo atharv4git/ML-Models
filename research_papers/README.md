@@ -25,7 +25,7 @@ Hierarchical clustering has the distinct advantage that any valid measure of dis
         <center>
 
         ![](hierarch.gif)
-        
+
         <small>source: https://dashee87.github.io/images/hierarch.gif</small>
         </center>
     3. __DB-Scan Clustering:__
