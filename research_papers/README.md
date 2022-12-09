@@ -36,8 +36,9 @@ In 2014, the algorithm was awarded the test of time award (an award given to alg
         </center>
 <hr>
 ### Contact:
-Type | Link | 
---- | --- |
-(🐤)[Twitter] | https://twitter.com/akayyy_in |
-(📷)[Instagram] | https://www.instagram.com/kuchbhiiiatharv/ |
-(🔗)[Webpage] | https://atharv4git.github.io/webpage/
+
+|Type | Link | 
+| :---: | :---: |
+|(🐤)[Twitter] | https://twitter.com/akayyy_in |
+|(📷)[Instagram] | https://www.instagram.com/kuchbhiiiatharv/ |
+|(🔗)[Webpage] | https://atharv4git.github.io/webpage/ |
