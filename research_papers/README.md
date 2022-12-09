@@ -6,6 +6,7 @@ Contains:
         >The problem is computationally difficult (NP-hard); however, efficient heuristic algorithms converge quickly to a local optimum. These are usually similar to the expectation-maximization algorithm for mixtures of Gaussian distributions via an iterative refinement approach employed by both k-means and Gaussian mixture modeling. They both use cluster centers to model the data; however, k-means clustering tends to find clusters of comparable spatial extent, while the Gaussian mixture model allows clusters to have different shapes.
         >The unsupervised k-means algorithm has a loose relationship to the k-nearest neighbor classifier, a popular supervised machine learning technique for classification that is often confused with k-means due to the name. Applying the 1-nearest neighbor classifier to the cluster centers obtained by k-means classifies new data into the existing clusters. This is known as nearest centroid classifier or Rocchio algorithm.
         <center>
+    
         ![kmeans](https://user-images.githubusercontent.com/82695022/206757973-d8c01eba-ccc5-44f8-90da-ddf97ab0a8cc.gif)
 
         <small>source: https://dashee87.github.io/images/kmeans.gif</small>
