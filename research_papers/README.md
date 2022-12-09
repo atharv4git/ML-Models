@@ -8,6 +8,7 @@ Contains:
         <center>
 
         ![](kmeans.gif)
+
         <small>source: https://dashee87.github.io/images/kmeans.gif</small>
         </center>
 
@@ -24,6 +25,7 @@ Hierarchical clustering has the distinct advantage that any valid measure of dis
         <center>
 
         ![](hierarch.gif)
+        
         <small>source: https://dashee87.github.io/images/hierarch.gif</small>
         </center>
     3. __DB-Scan Clustering:__
@@ -32,6 +34,7 @@ In 2014, the algorithm was awarded the test of time award (an award given to alg
         <center>
 
         ![](dbscan.gif)
+
         <small>source: https://ml-explained.com/articles/dbscan-explained/dbscan.gif</small>
         </center>
 <hr>
