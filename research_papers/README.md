@@ -7,7 +7,7 @@ Contains:
         >The unsupervised k-means algorithm has a loose relationship to the k-nearest neighbor classifier, a popular supervised machine learning technique for classification that is often confused with k-means due to the name. Applying the 1-nearest neighbor classifier to the cluster centers obtained by k-means classifies new data into the existing clusters. This is known as nearest centroid classifier or Rocchio algorithm.
         <center>
 
-        ![](https://dashee87.github.io/images/kmeans.gif)
+        ![](kmeans.gif)
         <small>source: https://dashee87.github.io/images/kmeans.gif</small>
         </center>
 
@@ -23,7 +23,7 @@ Hierarchical clustering has the distinct advantage that any valid measure of dis
 
         <center>
 
-        ![](https://dashee87.github.io/images/hierarch.gif)
+        ![](hierarch.gif)
         <small>source: https://dashee87.github.io/images/hierarch.gif</small>
         </center>
     3. __DB-Scan Clustering:__
@@ -31,7 +31,7 @@ Hierarchical clustering has the distinct advantage that any valid measure of dis
 In 2014, the algorithm was awarded the test of time award (an award given to algorithms which have received substantial attention in theory and practice) at the leading data mining conference, ACM SIGKDD. As of July 2020, the follow-up paper "DBSCAN Revisited, Revisited: Why and How You Should (Still) Use DBSCAN" appears in the list of the 8 most downloaded articles of the prestigious ACM Transactions on Database Systems (TODS) journal.
         <center>
 
-        ![](https://ml-explained.com/articles/dbscan-explained/dbscan.gif)
+        ![](dbscan.gif)
         <small>source: https://ml-explained.com/articles/dbscan-explained/dbscan.gif</small>
         </center>
 <hr>
