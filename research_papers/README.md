@@ -35,8 +35,6 @@ In 2014, the algorithm was awarded the test of time award (an award given to alg
         <center>
 
         ![dbscan](https://user-images.githubusercontent.com/82695022/206758096-9bc06eb9-26be-4f08-a562-5fe2973a60fe.gif)
-
-
         <small>source: https://ml-explained.com/articles/dbscan-explained/dbscan.gif</small>
         </center>
 <hr>
